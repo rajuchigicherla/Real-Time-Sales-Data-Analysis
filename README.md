@@ -53,7 +53,7 @@ Using the `charts` that made in analysis part and different `slicers` and it was
 
 ## Final conclusion made to improve Dress Circle sales using the report
 
-Target the `women` customers fo agr group(30-49) living in `Maharastra`, `Karnataka`, and `Utter pradesh` by showing ads/offers/coupons available on `Amazon,Flipkart and Myntra`
+Target the `women` customers fo `age group(30-49)` living in `Maharastra`, `Karnataka`, and `Utter pradesh` by showing ads/offers/coupons available on `Amazon,Flipkart and Myntra`
 #### Note:
 This report is not for one time use but it can be updated weekly or monthly also.
 
