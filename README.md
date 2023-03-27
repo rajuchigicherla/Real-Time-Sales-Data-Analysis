@@ -11,7 +11,7 @@ The report was made using `Excel`
 ## Recommended Analysis
 The store management was given certain set of key metrics to include in the report to understand their customers.The following are the questions they were asked to do analysis.
 
-- Compare the sales and orders using singlr chart.
+- Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more-men or women in 2022?
 - What are the different order staus in 2022?
@@ -41,7 +41,7 @@ Using different `pivot tables` and `pivot charts` made an analysis to make a rep
 dashboard Screenshot
 ![Screenshot (27)](https://user-images.githubusercontent.com/118670053/227794950-ebcaada0-ecd2-48c0-bdf1-d4915ba1d4d1.png)
 
-Using the `charts` that made in analysis part and different `slicers` and it was included within the repository
+Final report was was included within the repository
 
 #### Insights
 - `March` has the `highest` no of sales during the entire year and there is a gradual decrease after the march till december except august.
