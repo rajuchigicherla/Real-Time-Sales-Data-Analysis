@@ -28,7 +28,7 @@ The store management was given certain set of key metrics to include in the repo
 - Next steps
 
 #### Data Cleaning 
-After throughly checking the data there are some issues with `gender`,`quantity` was sorted out using replacing values.
+After throughly checking the data there are some wrong entries in `gender`,`quantity` columns was sorted out using replacing values.
 
 #### Data processing
 For the better usage of data in making report added two columns.Based on different ages made a column `age group` using three different age bins and other one is `month` column extracted from the date column.
