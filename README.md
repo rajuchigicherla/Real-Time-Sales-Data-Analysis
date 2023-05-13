@@ -3,7 +3,7 @@
 
 ## About the Project
 -------------
-Dress circle is an apparel store which do both offline and online sales through different channels like Amazon,Flipkart,Myntra etc..The `data was collected on a real time basis` from the store database. They wanted to create an annual sales report for the year 2022. So that, they can understand their customers and grow their sales in 2023.
+Dress circle is an apparel store which do both offline and online sales through different channels like Amazon,Flipkart,Myntra etc..The data was collected on a real time basis` from the store database.The store is not as big to adapt data analysis and they don't have enough resources.Recently, I approached them to understand their problems or pain points.  They wanted to create an annual sales report for the year 2022. So that, they can understand their customers and grow their sales in 2023.
 
 ### Built With
 The report was made using `Excel`
@@ -37,8 +37,9 @@ For the better usage of data in making report added two columns.Based on differe
 Using different `pivot tables` and `pivot charts` made an analysis to make a report.
 
 #### Interactive Dashboard
-dashboard Screenshot
-![Screenshot (27)](https://user-images.githubusercontent.com/118670053/227794950-ebcaada0-ecd2-48c0-bdf1-d4915ba1d4d1.png)
+Report Screenshot
+![Screenshot (27)](https://github.com/rajuchigicherla/Real-Time-Sales-Data-Analysis/assets/118670053/50a727e6-1dc4-4a69-aced-b621ab5cfb73)
+
 
 Final report was was included within the repository
 
@@ -50,12 +51,13 @@ Final report was was included within the repository
 - Adult `age group(30-49 yrs)`is max contributing(~50%)
 - `Amazon,Flipkart and Myntra` channels are max contributing(~80%)
 
-## Final conclusion made to improve Dress Circle sales using the report
-
-Target the `women` customers from `age group(30-49)` living in `Maharastra`, `Karnataka`, and `Utter pradesh` by showing ads/offers/coupons available on `Amazon,Flipkart and Myntra` to boost your sales in 2023 which uiltimately resulting increase in customer satisfaction and the revenue.
+## Result
+Based on the insights gained from the analysis, Dress Circle got `10%` sales growth in `january` 2023:
 #### Note:
 This report is not for one time use but it can be updated weekly or monthly also.
 
 ## Acknoledgements
 I would like to express my sincere gratitude to my dear friend `Brahmam` for your invaluable assistance in the `data collection` and for the `dress circle management`.
 Thank you again for your help and support.
+
+
