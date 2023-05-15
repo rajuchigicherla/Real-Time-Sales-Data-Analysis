@@ -53,8 +53,6 @@ Final report was was included within the repository
 
 ## Result
 Based on the insights gained from the analysis, Dress Circle got `10%` sales growth in `january` 2023:
-#### Note:
-This report is not for one time use but it can be updated weekly or monthly also.
 
 ## Acknoledgements
 I would like to express my sincere gratitude to my dear friend `Brahmam` for your invaluable assistance in the `data collection` and for the `dress circle management`.
