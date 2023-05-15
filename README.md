@@ -36,8 +36,8 @@ For the better usage of data in making report added two columns.Based on differe
 #### Data Analysis
 Using different `pivot tables` and `pivot charts` made an analysis to make a report.
 
-#### Interactive Dashboard
-Report Screenshot
+#### Report
+
 ![Screenshot (27)](https://github.com/rajuchigicherla/Real-Time-Sales-Data-Analysis/assets/118670053/50a727e6-1dc4-4a69-aced-b621ab5cfb73)
 
 
