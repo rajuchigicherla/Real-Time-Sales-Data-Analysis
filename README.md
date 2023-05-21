@@ -1,61 +1,66 @@
-# Dress Circle Sales-data-Analysis 
 
+
+# Dress Circle Sales Data Analysis
 
 ## About the Project
--------------
-Dress circle is an apparel store which do both offline and online sales through different channels like Amazon,Flipkart,Myntra etc..The data was collected on a real time basis` from the store database.The store is not as big to adapt data analysis and they don't have enough resources.Recently, I approached them to understand their problems or pain points.  They wanted to create an annual sales report for the year 2022. So that, they can understand their customers and grow their sales in 2023.
 
-### Built With
-The report was made using `Excel`
+Dress Circle Sales-data-Analysis is a comprehensive report that provides valuable insights into the sales performance and customer trends of Dress Circle, an apparel store that operates both offline and online through various channels like Amazon, Flipkart, and Myntra.
 
-## Recommended Analysis
-The store management was given certain set of key metrics to include in the report to understand their customers.The following are the questions they were asked to do analysis.
+The project involved real-time data collection from the store's database. Given the store's limited resources, I collaborated with Dress Circle to understand their challenges and pain points. Their main objective was to assess their sales performance and customer behavior in 2022, to strategize and drive sales growth in 2023.
 
-- Which month got the highest sales and orders?
-- Who purchased more-men or women in 2022?
-- What are the different order staus in 2022?
-- List top 5 states contributing to the sales?
-- Rleation between age and gender based on number of orders
-- Which channel is contributing to maximum sales?
-- What is the highest selling category?
+## Key Features
+
+- Thorough analysis of sales and customer data for 2022
+- Clear visualization of key metrics through interactive dashboards
+- Identification of top-selling categories, highest sales months, and contributing states
+- Assessment of gender-based purchasing patterns and age group preferences
+- Evaluation of different order statuses and their impact on overall performance
+
+## Technologies Used
+
+The analysis and report were created using Microsoft Excel, ensuring accuracy and seamless data processing.
 
 ## Roadmap
-- Data Cleaning
-- Data processing 
-- Data analysis
-- interacive dashboard
-- Insights
-- Next steps
 
-#### Data Cleaning 
-After throughly checking the data there are some wrong entries in `gender`,`quantity` columns was sorted out using replacing values.
+Data Cleaning:
+Identified and resolved outliers in the gender and quantity columns by replacing values.
+Data Processing:
+Created additional columns, such as age group and month, for better data utilization in the report.
+Data Analysis:
+Utilized pivot tables and charts to conduct a detailed analysis and generate meaningful insights.
+Interactive Dashboard:
+Developed an interactive dashboard to present the findings in a visually appealing manner.
+Insights:
+Summarized the key insights derived from the analysis.
 
-#### Data processing
-For the better usage of data in making report added two columns.Based on different ages made a column `age group` using three different age bins and other one is `month` column extracted from the date column.
+## Key Insights
 
-#### Data Analysis
-Using different `pivot tables` and `pivot charts` made an analysis to make a report.
-
-#### Report
-
-![Screenshot (27)](https://github.com/rajuchigicherla/Real-Time-Sales-Data-Analysis/assets/118670053/50a727e6-1dc4-4a69-aced-b621ab5cfb73)
-
-
-Final report was was included within the repository
-
-#### Insights
-- `March` has the `highest` no of sales during the entire year and there is a gradual decrease after the march till december except august.
-- Most of the orders got delivered and there are less than 10% orders which got cancelled or returned or refunded which is a good sign.
-- `Women` are more likely to buy compared to men(~65%)
-- `Maharastra`,`karnataka` and `Utter Pradesh` are the top 3 states(~35%)
-- Adult `age group(30-49 yrs)`is max contributing(~50%)
-- `Amazon,Flipkart and Myntra` channels are max contributing(~80%)
+- March had the highest number of sales throughout the year, followed by a gradual decline until December, except August.
+- Most orders were successfully delivered, with less than 10% being cancelled, returned, or refunded.
+- Women accounted for approximately 65% of the purchases, showing a higher likelihood to buy compared to men.
+- The top three states contributing to sales were Maharashtra, Karnataka, and Uttar Pradesh, accounting for approximately 35% of total sales.
+- The age group of 30-49 years (adults) made the highest contribution to sales, representing around 50% of the customer base.
+- Amazon, Flipkart, and Myntra were the primary sales channels, contributing to approximately 80% of the total sales.
 
 ## Result
-Based on the insights gained from the analysis, Dress Circle got `10%` sales growth in `january` 2023:
 
-## Acknoledgements
-I would like to express my sincere gratitude to my dear friend `Brahmam` for your invaluable assistance in the `data collection` and for the `dress circle management`.
-Thank you again for your help and support.
+Based on the key insights from the analysis, Dress Circle achieved a remarkable sales growth of 10% in January 2023.
 
+## Acknowledgements
+
+I extend my sincere gratitude to my friend Brahmam for his invaluable assistance in data collection and to the Dress Circle management for their cooperation throughout the project. Their support has been instrumental in the successful completion of this analysis.
+
+Please feel free to check the final report uploaded within the repository for a more detailed overview.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the Branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
 
