@@ -8,7 +8,7 @@ Dress Circle Sales-data-Analysis is a comprehensive report that provides valuabl
 
 The project involved real-time data collection from the store's database. Given the store's limited resources, I collaborated with Dress Circle to understand their challenges and pain points. Their main objective was to assess their sales performance and customer behavior in 2022, to strategize and drive sales growth in 2023.
 
-## Key Features
+## Recommended Analysis
 
 - Thorough analysis of sales and customer data for 2022
 - Clear visualization of key metrics through interactive dashboards
@@ -18,19 +18,28 @@ The project involved real-time data collection from the store's database. Given 
 
 ## Technologies Used
 
-The analysis and report were created using Microsoft Excel, ensuring accuracy and seamless data processing.
+The analysis and report were created using **Microsoft Excel**, ensuring accuracy and seamless data processing.
 
 ## Roadmap
 
-Data Cleaning:
+ **Data Cleaning:**
+
 Identified and resolved outliers in the gender and quantity columns by replacing values.
-Data Processing:
+
+ **Data Processing:**
+
 Created additional columns, such as age group and month, for better data utilization in the report.
-Data Analysis:
+
+ **Data Analysis:**
+
 Utilized pivot tables and charts to conduct a detailed analysis and generate meaningful insights.
-Interactive Dashboard:
+
+ **Interactive Dashboard:**
+
 Developed an interactive dashboard to present the findings in a visually appealing manner.
-Insights:
+
+ **Insights:**
+
 Summarized the key insights derived from the analysis.
 
 ## Key Insights
